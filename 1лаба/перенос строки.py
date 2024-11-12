@@ -1,0 +1,2 @@
+# TODO Распечатайте два слова Hello и World на отдельных строках
+print("Hello\nWorld")
